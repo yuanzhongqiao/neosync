@@ -1,117 +1,102 @@
-<p align="center">
-  <!-- <img alt="neosyncbanner" src="https://assets.nucleuscloud.com/neosync/docs/neosync-header.svg" > -->
-  <picture>
-  <source
-    srcset="https://assets.nucleuscloud.com/neosync/docs/neosync-header.svg"
-    media="(prefers-color-scheme: light)"
-  />
-  <source
-    srcset="https://assets.nucleuscloud.com/neosync/docs/neosync-header-dark.svg"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
+  
+  <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+  <source srcset="https://camo.githubusercontent.com/4795d7bd67bedc8e776b1ff5e8f56d6da18c0e6ce3a4acb000e5f7d868c86206/68747470733a2f2f6173736574732e6e75636c657573636c6f75642e636f6d2f6e656f73796e632f646f63732f6e656f73796e632d6865616465722e737667" media="(prefers-color-scheme: light)" data-canonical-src="https://assets.nucleuscloud.com/neosync/docs/neosync-header.svg">
+  <source srcset="https://camo.githubusercontent.com/6ef4dee0f9a4587f04682e81ad9a8a4dd8f7105400d384735bdd93c0ef8effc2/68747470733a2f2f6173736574732e6e75636c657573636c6f75642e636f6d2f6e656f73796e632f646f63732f6e656f73796e632d6865616465722d6461726b2e737667" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" data-canonical-src="https://assets.nucleuscloud.com/neosync/docs/neosync-header-dark.svg">
+  <img src="https://camo.githubusercontent.com/3ea384a4806373ccd247f789b945332f2d392e6a3823424a9f19788446435cea/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anuraghazra&amp;show_icons=true" style="visibility:visible;max-width:100%;">
+</picture></themed-picture>
 </p>
-
-<p align="center" style="font-size: 24px;font-weight: 500;">
-Open Source Data Anonymization and Synthetic Data Orchestration
-<p>
-
-<div align='center'>
- | <a href="https://www.neosync.dev">Website</a>
- | <a href="https://docs.neosync.dev">Docs</a>
- | <a href="https://discord.com/invite/MFAMgnp4HF">Discord</a>
- | <a href="https://www.neosync.dev/blog">Blog</a>
- | <a href="https://docs.neosync.dev/changelog">Changelog</a>
+<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+开源数据匿名化和合成数据编排
+</font></font></p><p dir="auto">
+</p><div align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+ |</font></font><a href="https://www.neosync.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网站</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+ |</font></font><a href="https://docs.neosync.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+ | </font></font><a href="https://discord.com/invite/MFAMgnp4HF" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 
+ |</font></font><a href="https://www.neosync.dev/blog" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博客</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+ |</font></font><a href="https://docs.neosync.dev/changelog" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更新日志</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
  |
-</div>
-
+</font></font></div>
  <br>
-
-<div align="center">
-  <a href='https://makeapullrequest.com'>
-    <img alt='PRs Welcome' src='https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields'/>
+<div align="center" dir="auto">
+  <a href="https://makeapullrequest.com" rel="nofollow">
+    <img alt="欢迎 PR" src="https://camo.githubusercontent.com/1a97d303fbf3624999e2c69a6fa0699ef0c1d3b6e9bea256b39ea006289fcd59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e7376673f7374796c653d736869656c6473" data-canonical-src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields" style="max-width: 100%;">
   </a>
-  <img src="https://img.shields.io/github/license/lightdash/lightdash" />
-  <!-- <a href="https://codecov.io/gh/nucleuscloud/neosync">
-    <img alt="CodeCov" src="https://codecov.io/gh/nucleuscloud/neosync/graph/badge.svg?token=A35QDLRU04"/>
-    </a> -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/efd23045cc32ccf6d19ef6c380e5614fb5015ebc58d2058da21c027976468868/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6c69676874646173682f6c6967687464617368"><img src="https://camo.githubusercontent.com/efd23045cc32ccf6d19ef6c380e5614fb5015ebc58d2058da21c027976468868/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6c69676874646173682f6c6967687464617368" data-canonical-src="https://img.shields.io/github/license/lightdash/lightdash" style="max-width: 100%;"></a>
+  
   <a href="https://github.com/nucleuscloud/neosync/actions/workflows/go.yml/">
-    <img alt="Go Tests" src="https://github.com/nucleuscloud/neosync/actions/workflows/go.yml/badge.svg"/>
+    <img alt="Go 测试" src="https://github.com/nucleuscloud/neosync/actions/workflows/go.yml/badge.svg" style="max-width: 100%;">
   </a>
-  <a href="https://x.com/neosynccloud">
-    <img alt="Follow X" src="https://img.shields.io/twitter/follow/neosynccloud?label=Follow"/>
+  <a href="https://x.com/neosynccloud" rel="nofollow">
+    <img alt="关注X" src="https://camo.githubusercontent.com/186aceb9fb8ab41203cb48e8c6b2f3f5f48b35af50844f686f9efdf7de6cc31d/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f6e656f73796e63636c6f75643f6c6162656c3d466f6c6c6f77" data-canonical-src="https://img.shields.io/twitter/follow/neosynccloud?label=Follow" style="max-width: 100%;">
   </a>
 </div>
-
-## Introduction
-
-[Neosync](https://www.neosync.dev) is an open-source, developer-first way to anonymize PII, generate synthetic data and sync environments for better testing, debugging and developer experience.
-
-Companies use Neosync to:
-
-1. **Safely test code against production data** - Anonymize sensitive production data in order to safely use it locally for a better testing and developer experience
-2. **Easily reproduce production bugs locally** - Anonymize and subset production data to get a safe, representative data set that you can use to locally reproduce production bugs quickly and efficiently
-3. **High quality data for lower-level environments** - Catch bugs before they hit production when you hydrate your staging and QA environments with production-like data
-4. **Solve GDPR, DPDP, FERPA, HIPAA and more** - Use anonymized and synthetic data to reduce your compliance scope and easily comply with laws like HIPAA, GDPR, and DPDP
-5. **Seed development databases** - Easily seed development databases with synthetic data for unit testing, demos and more
-
-## Features
-
-- **Generate synthetic data** based on your schema
-- **Anonymize existing production-data** for a better developer experience
-- **Subset your production database** for local and CI testing using any SQL query
-- **Complete async pipeline** that automatically handles job retries, failures and playback using an event-sourcing model
-- **Referential integrity** for your data automatically
-- **Declarative, GitOps based configs** as a step in your CI pipeline to hydrate your CI DB
-- **Pre-built data transformers** for all major data types
-- **Custom data transformers** using javascript or LLMs
-- **Pre-built integrations** with Postgres, Mysql, S3
-
-## Getting started
-
-Neosync is a fully dockerized setup which makes it easy to get up and running.
-
-A [compose.yml](./compose.yml) file at the root contains production image refs that allow you to get up and running with just a few commands without having to build anything on your system.
-
-Neosync uses the newer `docker compose` command, so be sure to have that installed on your machine.
-
-To start Neosync, clone the repo into a local directory, be sure to have docker installed and running, and then run:
-
-```sh
-make compose/up
-```
-
-To stop, run:
-
-```sh
-make compose/down
-```
-
-Neosync will now be available on [http://localhost:3000](http://localhost:3000).
-
-The production compose pre-seeds with connections and jobs to get you started! Simply run the generate and sync job to watch Neosync in action!
-
-## Kubernetes, Auth Mode and more
-
-For more in-depth details on environment variables, Kubernetes deployments, and a production-ready guide, check out the [Deploy Neosync](https://docs.neosync.dev/deploy/introduction) section of our Docs.
-
-## Resources
-
-Some resources to help you along the way:
-
-- [Docs](https://docs.neosync.dev) for comprehensive documentation and guides
-- [Discord](https://discord.com/invite/MFAMgnp4HF) for discussion with the community and Neosync team
-- [X](https://x.com/neosynccloud) for the latest updates
-
-## Contributing
-
-We love contributions big and small. Here are just a few ways that you can contribute to Neosync.
-
-- Join our [Discord](https://discord.com/invite/MFAMgnp4HF) channel and ask us any questions there
-- Open a PR (see our instructions on [developing with Neosync locally](https://docs.neosync.dev/guides/neosync-local-dev))
-- Submit a [feature request](https://github.com/nucleuscloud/neosync/issues/new?assignees=&labels=enhancement%2C+feature&template=feature_request.md) or [bug report](https://github.com/nucleuscloud/neosync/issues/new?assignees=&labels=bug&template=bug_report.md)
-
-## Licensing
-
-We strongly believe in free and open source software and make this repo is available under the [MIT expat license](./LICENSE.md).
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">介绍</font></font></h2><a id="user-content-introduction" class="anchor" aria-label="永久链接：简介" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a href="https://www.neosync.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Neosync</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是一种开源的、开发人员优先的方法，用于匿名化 PII、生成合成数据和同步环境，以实现更好的测试、调试和开发人员体验。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">公司使用 Neosync 来：</font></font></p>
+<ol dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据生产数据安全地测试代码</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 匿名化敏感生产数据，以便在本地安全地使用，从而获得更好的测试和开发人员体验</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">轻松在本地重现生产错误</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 对生产数据进行匿名化和子集化，以获得安全、有代表性的数据集，您可以使用该数据集快速高效地在本地重现生产错误</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为低级环境提供高质量数据</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 使用类似生产的数据补充您的暂存和 QA 环境，在错误影响生产之前发现它们</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">解决 GDPR、DPDP、FERPA、HIPAA 等问题</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 使用匿名和合成数据来缩小合规范围并轻松遵守 HIPAA、GDPR 和 DPDP 等法律</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">种子开发数据库</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 轻松使用合成数据为单元测试、演示等植入开发数据库</font></font></li>
+</ol>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">特征</font></font></h2><a id="user-content-features" class="anchor" aria-label="固定链接：功能" href="#features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据您的模式</font><strong><font style="vertical-align: inherit;">生成合成数据</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">匿名化现有生产数据</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获得更好的开发人员体验</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用任意 SQL 查询对生产数据库进行子集化</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以进行本地和 CI 测试</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">完整的异步管道</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，使用事件源模型自动处理作业重试、失败和回放</font></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动实现数据的</font><strong><font style="vertical-align: inherit;">参照完整性</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">声明式的、基于 GitOps 的配置</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">是 CI 管道中的一个步骤，用于补充 CI DB</font></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为所有主要数据类型</font><strong><font style="vertical-align: inherit;">预先构建数据转换器</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 javascript 或 LLM</font><strong><font style="vertical-align: inherit;">自定义数据转换器</font></strong></font></li>
+<li><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与 Postgres、Mysql、S3 的</font><strong><font style="vertical-align: inherit;">预构建集成</font></strong></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">入门</font></font></h2><a id="user-content-getting-started" class="anchor" aria-label="永久链接：入门指南" href="#getting-started"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Neosync 是一个完全 Docker 化的设置，可以轻松启动和运行。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="/nucleuscloud/neosync/blob/main/compose.yml"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根目录下的compose.yml</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文件</font><font style="vertical-align: inherit;">包含生产图像参考，允许您仅使用几个命令即可启动并运行，而无需在系统上构建任何东西。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Neosync 使用较新的</font></font><code>docker compose</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">命令，因此请确保您的机器上安装了该命令。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要启动 Neosync，请将 repo 克隆到本地目录，确保已安装并运行 docker，然后运行：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>make compose/up</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="make compose/up" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要停止，请运行：</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>make compose/down</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="make compose/down" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"></font><a href="http://localhost:3000" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Neosync 现在可以在http://localhost:3000</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上使用</font><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生产组合预先包含连接和作业，帮助您入门！只需运行生成和同步作业即可观看 Neosync 的运行！</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kubernetes、Auth 模式等</font></font></h2><a id="user-content-kubernetes-auth-mode-and-more" class="anchor" aria-label="永久链接：Kubernetes、Auth 模式等" href="#kubernetes-auth-mode-and-more"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">有关环境变量、Kubernetes 部署和生产就绪指南的更多详细信息，请查看</font><font style="vertical-align: inherit;">我们文档的</font></font><a href="https://docs.neosync.dev/deploy/introduction" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">部署 Neosync部分。</font></font></a><font style="vertical-align: inherit;"></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">资源</font></font></h2><a id="user-content-resources" class="anchor" aria-label="固定链接：资源" href="#resources"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下一些资源可为您提供帮助：</font></font></p>
+<ul dir="auto">
+<li><a href="https://docs.neosync.dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Docs</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供全面的文档和指南</font></font></li>
+<li><a href="https://discord.com/invite/MFAMgnp4HF" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于与社区和 Neosync 团队进行讨论</font></font></li>
+<li><a href="https://x.com/neosynccloud" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">X</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">获取最新更新</font></font></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2><a id="user-content-contributing" class="anchor" aria-label="永久链接：贡献" href="#contributing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们欢迎大大小小的贡献。以下是您可以为 Neosync 做出贡献的几种方式。</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加入我们的</font></font><a href="https://discord.com/invite/MFAMgnp4HF" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Discord</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">频道并在那里向我们提问</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">打开 PR（请参阅我们关于</font></font><a href="https://docs.neosync.dev/guides/neosync-local-dev" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Neosync 进行本地开发的</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">说明）</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提交</font></font><a href="https://github.com/nucleuscloud/neosync/issues/new?assignees=&amp;labels=enhancement%2C+feature&amp;template=feature_request.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">功能请求</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">或</font></font><a href="https://github.com/nucleuscloud/neosync/issues/new?assignees=&amp;labels=bug&amp;template=bug_report.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">错误报告</font></font></a></li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可</font></font></h2><a id="user-content-licensing" class="anchor" aria-label="永久链接：许可" href="#licensing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们坚信自由和开源软件，并使此 repo 在</font></font><a href="/nucleuscloud/neosync/blob/main/LICENSE.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIT expat 许可</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下可用。</font></font></p>
+</article></div>
